@@ -1,0 +1,327 @@
+
+.container{
+    background: #D5DBDB;
+    margin-top: 50px;
+    margin-block-end: 50px;
+    margin: 20px auto;
+    padding: 40px;
+    border: 2px solid black;
+
+}
+.img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width:80% ;
+
+}
+
+.header{
+    background-color: white;
+    border: 1px solid black;
+    min-height: 60px;
+    padding: 10px;
+}
+
+.header2{
+    background-color: white;
+    border: 2px solid black;
+    min-height: 30px;
+}
+
+
+.carro{
+	 background-color: white;
+    border: 2px solid black;
+    min-height: 200px;
+}
+
+.margen{
+    margin-top: 10px;
+}
+
+
+.articulo {
+    background-color:#D5DBDB;
+    
+}
+
+.subar {
+    border: 1px solid black;
+    min-height: 300px;
+    background-color: white;
+    
+}
+
+.lista {
+    background-color:white;
+    border: 2px solid black;
+    min-height: 100px;
+    padding: 5px;
+    margin-left: 60px;
+   
+}
+
+
+.pie {
+    background-color: #797D7F;
+    border: 1px solid black;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+/* administrarticulo */
+
+.cabeza2 {
+	text-shadow: 2px 2px 5px rgb(9, 77, 20);
+	padding: 10px;
+    text-align: right;
+    color: white;
+	cursor: pointer;
+	
+}
+
+.titulo {
+    text-align: center;
+    color: rgb(202, 183, 183);
+    background-color: #237223;
+
+}
+
+.estproceso{
+    color: red;
+}
+
+.proceso {
+    color: #7CFC00
+}
+.card-title{
+    color: #D2691E;
+}
+.card-img{
+    align: auto;
+    margin-top: 20px;
+}
+
+.card-imgi{
+    width: 200px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+
+
+}
+
+.palabras {
+    margin-left: 170px;
+}
+
+/*ver_articulo_adm*/
+
+.pclave{
+    text-align-last: center;
+    background-color: #D1F2EB;
+}
+
+.rreseña{
+    text-align: justify;
+    background-color: #D1F2EB;
+}
+
+.rarticulo{
+    text-align: justify;
+    background-color: #D1F2EB; 
+}
+
+#more {display: none;}
+
+
+
+
+
+
+
+/*Historial*/
+.cimg{
+    vertical-align: center;
+    background-color: #D1F2EB; 
+
+}
+
+.ctexto{
+    text-align: justify;
+    background-color: #D1F2EB; 
+
+}
+
+.cbotones{
+    align-content: center;
+    background-color: #D1F2EB;
+
+
+
+/*Revision*/
+
+}
+
+.cuadrom{
+    align-content: center;
+    background-color: #D1F2EB;
+}
+
+/*Retroalimentacion*/
+
+.retro{
+    align-content: center;
+    background-color: #D1F2EB;
+}
+
+
+/* Aqui comienza los css de quienes somos*/
+
+
+.video{
+    position: relative;
+    padding-bottom: 56.25%; /*16/9 ratio*/
+    padding-top: 10px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video iframe,
+.video object,
+.video embed{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.anchovideo{
+    background-color: white;
+   border: 2px solid black;
+   min-height: 200px;
+}
+.listavideo {
+    background-color:white;
+    border: 2px solid black;
+    min-height: 100px;
+    padding: 10px;
+    margin-left: 40px;
+    display: inline-block;
+   
+}
+
+.vmp {
+    border: 1px solid black;
+    min-height: 300px;
+    padding: 0px;
+    background-color: white;
+    text-align: center;
+    
+}
+.vision{
+    margin-top: 0px;
+}
+.media img{
+    width: 20%;
+}
+
+.media{
+    margin: 5%
+}
+.list-unstyled{
+    border: 2px solid;
+    margin: 15px;
+    background: #6e6e6e
+}
+.card-title {
+    text-align: center;
+    border: 3px solid;
+    background: rgb(98, 177, 98);
+
+}
+.media-body{
+    color: black;
+   text-align: left;
+   border: 1px solid color white;
+   background: white;
+
+}
+.container-fluid{
+	background: green;
+	display: inline-block;
+	text-align: center;
+}
+.navbar-nav{
+
+	text-align: center;
+	display: inline-flex;
+}
+.aceptar{
+    margin-top: 10px;
+    background-color:white;
+    border: 2px solid green;
+    padding: 20px;
+    
+}
+
+.aceptar1{
+    margin-top: 10px;
+    background-color:white;
+    border: 2px solid green;
+    padding: 20px;
+    margin-left: 60px;
+}
+
+
+.btn{
+    align-content: center;
+}
+
+.afu {
+    border: 1px solid black;
+}
+
+
+
+.seccion {
+    background-color: #AED6F1;
+    border: 4px solid #196F3D;
+    margin: 10px;
+    width: 100%;
+    text-align:  justify;
+    
+
+}
+
+.comentador img{
+    display: inline-block;
+    width: 12%;
+    float: left;
+}
+
+.otros{
+    width: 75%;
+    display: inline-block;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.comentarios {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width:80% ;
+}
+
+.col-md-3{
+    display: inline-block;
+}
